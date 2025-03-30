@@ -1,0 +1,8 @@
+{
+  "DATA_PATH": "london_weather.csv",
+  "MODEL_PATH": "temperature_model.pkl",
+  "API_TITLE": "London Temperature Prediction API",
+  "API_VERSION": "1.0",
+  "HOST": "0.0.0.0",
+  "PORT": 8000
+}
